@@ -1,0 +1,40 @@
+.navbar-brand {
+	font-family: 'Viga', sans-serif;
+	color: white !important;
+	text-shadow: 1px 1px 3px rgba(0,0,0,0.8);
+}
+
+.jumbotron {
+	background-image: url(../img/background.jpg);
+	background-position: center;
+	background-size: cover;
+	height: 600px;
+	font-family: cambria;
+	font-weight: bold;
+	color: white;
+	text-shadow: 1px 1px 5px rgba(0,0,0,1);
+}
+
+.container #panel{
+	margin-top: 30px;
+}
+
+.container .panel {
+	margin-top: 20px;
+}
+
+.card {
+	width: 500px;
+}
+
+#lion {
+	margin-top: 50px;
+}
+
+#service img {
+	max-width: 60%;
+	height: auto;
+	margin-top: 40px;
+	margin-bottom: 30px;
+	
+		}
