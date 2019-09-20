@@ -15,12 +15,12 @@
 	text-shadow: 1px 1px 5px rgba(0,0,0,1);
 }
 
-.container #panel{
+.container #service-hp{
 	margin-top: 30px;
 }
 
-.container .panel {
-	margin-top: 20px;
+.container .main {
+	margin-top: 40px;
 }
 
 .card {
@@ -31,10 +31,24 @@
 	margin-top: 50px;
 }
 
-#service img {
+#service-lion img {
 	max-width: 60%;
 	height: auto;
 	margin-top: 40px;
 	margin-bottom: 30px;
 	
 		}
+
+#about {
+	margin-top: 40px;
+}
+
+.footer {
+	margin-top: 100px;
+
+}
+
+.footer p {
+	color: #ACACAC;
+	font-size: 18px;
+}
